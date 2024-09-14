@@ -29,4 +29,6 @@
 
 `git tag` `git show` `git tag -d`
 
-`git clone`
+`git clone` `git push` `git pull`
+
+`git remote -v` `git remote add`
