@@ -32,3 +32,5 @@
 `git clone` `git push` `git pull`
 
 `git remote -v` `git remote add`
+
+`git remote add` `git remote rm`
