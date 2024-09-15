@@ -33,4 +33,6 @@
 
 `git remote -v` `git remote add` `git remote rm` `git remote rename` `git remote show`
 
-`git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip` 
+`git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip`
+
+`git push --set-upstream`
