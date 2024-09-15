@@ -35,6 +35,4 @@
 
 `git remote add` `git remote rm`
 
-`git log --oneline --graph`
-
-`git rebase` `git rebase --onto`
+`git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip`
