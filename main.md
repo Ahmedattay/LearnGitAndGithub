@@ -36,3 +36,5 @@
 `git remote add` `git remote rm`
 
 `git log --oneline --graph`
+
+`git rebace`
