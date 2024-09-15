@@ -29,10 +29,8 @@
 
 `git tag` `git show` `git tag -d`
 
-`git clone` `git push` `git pull`
+`git clone` `git push` `git pull` `git fetch`
 
-`git remote -v` `git remote add`
+`git remote -v` `git remote add` `git remote rm` `git remote rename` `git remote show`
 
-`git remote add` `git remote rm`
-
-`git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip`
+`git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip` 
