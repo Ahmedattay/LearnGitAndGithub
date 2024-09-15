@@ -37,4 +37,4 @@
 
 `git log --oneline --graph`
 
-`git rebace`
+`git rebase` `git rebase --onto`
