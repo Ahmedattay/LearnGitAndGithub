@@ -34,3 +34,5 @@
 `git remote -v` `git remote add`
 
 `git remote add` `git remote rm`
+
+`git log --oneline --graph`
