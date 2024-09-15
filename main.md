@@ -35,4 +35,4 @@
 
 `git rebase` `git rebase --onto` `git rebase --abort` `git rebase --continue`  `git rebase --skip`
 
-`git push --set-upstream`
+`git push --set-upstream` `git push (origin) --delete`
